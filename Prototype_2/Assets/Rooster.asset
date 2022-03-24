@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a1126bf27ad7f348b16441435a08c1a, type: 3}
   m_Name: Rooster
   m_EditorClassIdentifier: 
-  myAnimal: {fileID: 0}
+  myAnimal: {fileID: 6415426475580269059, guid: 6dfdbc9afa5868a428b0f61867ec1df1, type: 3}
   speed: 0
-  myFood: {fileID: 0}
+  myFood: {fileID: 100000, guid: 10d25933610222845ad3760a855829c4, type: 3}
+  foodName: cookie

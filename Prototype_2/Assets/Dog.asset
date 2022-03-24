@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a1126bf27ad7f348b16441435a08c1a, type: 3}
   m_Name: Dog
   m_EditorClassIdentifier: 
-  myAnimal: {fileID: 0}
+  myAnimal: {fileID: 6712822322378517053, guid: 89d0ae6b654cda143b8b7d6aa8b84257, type: 3}
   speed: 0
-  myFood: {fileID: 0}
+  myFood: {fileID: 100000, guid: 06cdf427476835b42837c1ca7f8cdbd1, type: 3}
+  foodName: pizza

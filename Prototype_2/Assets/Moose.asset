@@ -15,3 +15,4 @@ MonoBehaviour:
   myAnimal: {fileID: 3274216485044065170, guid: 32b9fca283cfc544fb3ba78dc174cd00, type: 3}
   speed: 21
   myFood: {fileID: 120208, guid: 4949a22a2c444b0459d7289aae77be28, type: 3}
+  foodName: pear

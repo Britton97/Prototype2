@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9afc9ce6fa61a59458b4e770a477dbce, type: 3}
   m_Name: Cookie
   m_EditorClassIdentifier: 
-  foodModel: {fileID: 0}
+  foodModel: {fileID: 7834705211635435640, guid: 3b0d919ea59ba1c47bc765c36dea5927, type: 3}
   speed: 0
-  whoEatsMe: {fileID: 0}
+  whoEatsMe: {fileID: 6415426475580269059, guid: 6dfdbc9afa5868a428b0f61867ec1df1, type: 3}
+  foodName: cookie

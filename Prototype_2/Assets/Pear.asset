@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9afc9ce6fa61a59458b4e770a477dbce, type: 3}
   m_Name: Pear
   m_EditorClassIdentifier: 
-  foodModel: {fileID: 0}
-  speed: 0
-  whoEatsMe: {fileID: 0}
+  foodModel: {fileID: 648183443548776075, guid: 868399f3411f42549ab9c15e250cacd0, type: 3}
+  speed: 40
+  whoEatsMe: {fileID: 3274216485044065170, guid: 32b9fca283cfc544fb3ba78dc174cd00, type: 3}
+  foodName: pear
